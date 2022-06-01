@@ -1,0 +1,21 @@
+.text-input {
+    -fx-text-inner-color: white;
+    -fx-background-color:  #051875;
+    -fx-text-fill: #ffffff;
+
+}
+.text-label{
+    -fx-text-fill: #ffffff;
+
+}
+.button{
+    -fx-background-color:  #051875;
+    -fx-text-fill: #ffffff;
+}
+.grafica {
+    -fx-background-color: #000000;
+
+}
+.axis{
+
+}
